@@ -8,16 +8,18 @@ body {
   margin: 0 auto;
 }
 
-.displayed-img {
-  width: 100%;
-  height: auto;
-}
+
 
 .full-img {
   position: relative;
   display: block;
   width: 640px;
   height: 480px;
+}
+
+.displayed-img {
+  width: auto;
+  height: 100%;
 }
 
 .overlay {
