@@ -6,9 +6,7 @@ const overlay = document.querySelector(".overlay");
 
 /* Looping through images */
 
-const newImage = document.createElement('img');
-newImage.setAttribute('src');
-thumbBar.appendChild(newImage);
+
 let text = "";
 let credits = ["Photo 1 by Meritt Thomas on Unsplash" ,
  "Photo 2 by Tandem X Visuals on Unsplash",
