@@ -4,13 +4,11 @@ const thumbBar = document.querySelector(".thumb-bar");
 const btn = document.querySelector("button");
 const overlay = document.querySelector(".overlay");
 
-/* Looping through images 
+/* Looping through images */
 
-<<<<<<< HEAD
 const newImage = document.createElement('img');
 newImage.setAttribute('src');
 thumbBar.appendChild(newImage);
-=======
 let text = "";
 let credits = ["Photo 1 by Meritt Thomas on Unsplash" ,
  "Photo 2 by Tandem X Visuals on Unsplash",
@@ -39,7 +37,6 @@ for (i = 1; i <= 5; i++) {
 // const newImage = document.createElement('img');
 // newImage.setAttribute('src', xxx);
 // thumbBar.appendChild(newImage);
->>>>>>> f8a481d5b09dfaf9f4629433e03b1beff71655d8
 
 
 
